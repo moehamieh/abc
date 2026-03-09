@@ -1,0 +1,5 @@
+{
+  "name": "Admin Dashboard Pro",
+  "description": "A comprehensive admin dashboard with authentication and CRUD management for sliders, services, categories, and projects.",
+  "requestFramePermissions": []
+}
